@@ -1,0 +1,40 @@
+nav{
+	background-color: #378752;
+}
+
+.menu{
+	list-style: none;
+}
+
+.item{
+	line-height: 2.5;
+	text-align: center;
+}
+
+.item:hover{
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+.item a{
+	color: #FFFFFF;
+	text-decoration: none;
+	display: block;
+	font-family:  'Montserrat', sans-serif;
+}
+
+.active{
+	background-color: #3F8039;
+	color: #FFFFFF;
+	font-family:  'Montserrat', sans-serif;
+}
+
+
+@media screen and (min-width:768px){
+	.menu{
+		display: flex;
+		flex-direction: row;
+	}
+   .item{
+	flex-grow: 1;
+    }
+}

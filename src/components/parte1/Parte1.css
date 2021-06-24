@@ -1,0 +1,162 @@
+.contacto{
+	background-color: #dedede;
+	padding-left: 60px;
+}
+
+.info{
+	margin-bottom: 5px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.info i{
+	background-color: #52A64B;
+	padding: 10px;
+	border-radius: 50%;
+	margin-right: 10px;
+	color: #DEDEDE;
+	font-size: 16px;
+
+}
+
+progress[value]{
+	width: 100%;
+	height: 10px;
+	appearance: none;
+	color: #0BAFE3;
+}
+progress::-moz-progress-bar { background: #0BAFE3; }
+progress::-webkit-progress-value { background: #0BAFE3; }
+
+
+
+/*inicio de software*/
+.cajareferencias{
+	background-color: #F0F0F0;
+	max-width: 30rem;
+	width: 100%;
+	margin: 30px 0;
+	color: #000000;
+	break-before: avoid;
+}
+
+.habilidad{
+   margin: 25px;
+   margin-left: 0px;
+ 
+}
+
+.habilidad label{
+    font-family: 'Mukta Mahee', sans-serif;
+    margin-top: 10px;
+}
+
+progress[value] { 
+    width: 100%; 
+    height: 10px; appearance: none; 
+    color:#7bb38d; 
+    margin: 10px auto;
+} 
+
+
+   
+progress::-moz-progress-bar { 
+    background:#7bb38d; 
+} 
+
+progress::-webkit-progress-value { 
+    background :#7bb38d;
+}
+
+.cajaedu{
+	display: flex;
+	flex-direction: column;
+}
+
+/*fin de software*/
+
+.educacion{
+margin-left: 10px;
+margin-bottom: 10px;
+background-color:  #274257;
+
+text-align: center;
+color: white;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+.educacion p{
+    margin-left: 10px;
+}
+
+.educacion i {
+    color: white;
+    padding: 5px;
+}
+.educacion2{
+background-color:  #274257;
+
+text-align: center;
+color: white;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+
+.educacion2 i {
+    color: white;
+    padding: 5px;
+}
+
+
+
+.cajab{
+    width: 25%;
+    min-height: 200px;
+    float: left;
+
+}
+.cajab h1{
+    text-align: center;
+    margin: 20px;
+    font-weight: 100;
+}
+.cajab ul{
+    margin: 20px 40px ;
+}
+.cajab ul li{
+    text-align: left;
+    font-size:15px;
+    list-style-position: inside;
+}
+
+.cajab img{
+display: block;
+margin: auto;
+border: 4px solid #FFFFFF;
+}
+.cajab a{
+    text-decoration: none;
+    color: white;
+}
+.redes{
+    text-align: center; 
+}
+.redes li{
+    float: left;
+    margin: 5px;
+   
+}
+
+.redes li a{
+    padding: 15px;
+
+}
+@media screen and (max-width: 768px){
+	.contacto{
+		flex-basis: 50%;
+        padding: 15px;
+	}
+    .habilidad{
+        margin: 0px;
+    }
+}
+

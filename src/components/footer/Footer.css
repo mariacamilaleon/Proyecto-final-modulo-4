@@ -1,0 +1,14 @@
+footer{
+    max-width: 800px;
+	width: 100%;
+	background-image: url("header2.png");
+	margin: auto;
+	background-repeat: no-repeat;
+    padding: 45px 30px;
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+

@@ -1,0 +1,141 @@
+.contacto3{
+    background-color: #dedede;
+    padding: 3px 0;
+    max-width: 800px;
+    width: 100%;
+    margin: auto;
+    background-repeat: no-repeat;
+    padding: 45px 30px;
+    display: flex;
+    flex-direction: column;
+    min-height: 300px;
+
+}
+.contacto3 p {
+ margin: 10px;
+}
+.educacion{
+margin-left: 10px;
+margin-bottom: 10px;
+background-color:  #274257;
+
+text-align: center;
+color: white;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+.educacion p{
+    margin-left: 10px;
+}
+
+.educacion i {
+    color: white;
+    padding: 5px;
+}
+.educacion2{
+background-color:  #274257;
+
+text-align: center;
+color: white;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+
+.educacion2 i {
+    color: white;
+    padding: 5px;
+}
+
+
+.cajasoftware{
+    background-color: #dedede;
+}
+table{
+    
+    align-items: center;
+    background: rgba(186, 218, 191, 0.8); 
+    border: 1px solid rgba(100, 200, 0, 0.3);
+    border-radius: 5px;
+    width: 80%;
+}
+.programa{
+    width: 45px;
+}
+.star{
+    width: 18px;
+}
+
+
+td{
+    padding: 7px;
+    text-align: center;
+}
+th{
+    padding: 7px;
+}
+.ref i{
+    font-size: 2em;
+    color: #378752;
+    padding: 10px;
+}
+.rnom1{
+    font-weight: 500;
+    font-family:  'Montserrat', sans-serif;
+    color: 222623;
+    font-weight: bold;
+    margin: 10px;
+}
+.rnom2{
+    font-weight: 500;
+    font-family:  'Montserrat', sans-serif;
+    color: 222623;
+    font-weight: bold;
+    margin-left: 42px;
+}
+
+.rcargo1{
+    padding-left: 42px;
+    color: #73816a;
+}
+.boton{
+    text-decoration: none;
+    padding: 3px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 12px;
+    color: #e3f1e2;
+    background-color: #378752;
+    border-radius: 5px;
+    border: 1px double #e3f1e2;
+  }
+  .boton:hover{
+    opacity: 0.6;
+    text-decoration: none;
+    background-color: #badabf;
+    color: black;
+    border: 1px double #e3f1e2;
+  }
+
+  .refpro{
+    color: black;
+    text-align: center;
+  }
+
+ .contacto3 img{
+    float: left;
+    margin: 20px 30px 10px 30px;
+    box-shadow: 2px 2px 12px black;
+    border-radius: 15%; 
+}
+
+
+
+@media screen and (max-width: 768px){
+    .contacto2{
+        flex-basis: 50%;
+        padding: 15px;
+    }
+
+}

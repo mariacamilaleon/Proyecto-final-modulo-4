@@ -1,0 +1,88 @@
+.contacto2{
+    background-color: #dedede;
+    padding: 3px 0;
+}
+.contacto2 p {
+ margin: 10px;
+}
+.educacion{
+margin-left: 10px;
+margin-bottom: 10px;
+background-color:  #274257;
+
+text-align: center;
+color: white;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+.educacion p{
+    margin-left: 10px;
+}
+
+.educacion i {
+    color: white;
+    padding: 5px;
+}
+.educacion2{
+background-color:  #274257;
+
+text-align: center;
+color: white;
+border-top-right-radius: 5px;
+border-bottom-right-radius: 5px;
+}
+
+.educacion2 i {
+    color: white;
+    padding: 5px;
+}
+
+
+.cajasoftware{
+    background-color: #dedede;
+}
+table{
+    
+    align-items: center;
+    background: rgba(186, 218, 191, 0.8); 
+    border: 1px solid rgba(100, 200, 0, 0.3);
+    border-radius: 5px;
+    width: 80%;
+}
+.programa{
+    width: 45px;
+}
+.star{
+    width: 18px;
+}
+
+
+td{
+    padding: 7px;
+    text-align: center;
+}
+th{
+    padding: 7px;
+}
+.ref i{
+    font-size: 2em;
+    color: #378752;
+    padding: 10px;
+}
+.rnom{
+    font-weight: 500;
+    font-family:  'Montserrat', sans-serif;
+    color: 222623;
+    font-weight: bold;
+}
+.rcargo{
+    padding-left: 55px;
+    color: #73816a;
+}
+@media screen and (max-width: 768px){
+    .contacto2{
+        flex-basis: 50%;
+        padding: 15px;
+    }
+
+}

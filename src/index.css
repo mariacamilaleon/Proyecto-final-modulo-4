@@ -1,0 +1,65 @@
+@import url ('https://fonts.googleapis.com/css2? family = Montserrat: wght @ 300; 400; 500; 600; 700 & family = Mukta + Mahee: wght @ 200; 300; 400; 500; 600; 700; 800 & family = Poppins: wght @ 100; 200; 300; 400; 500 & display = swap '); 
+
+*{
+	margin: 0;
+	padding: 0;
+	border:0;
+	box-sizing: border-box;
+}
+
+.container{
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+h2{
+	 margin: 10px 0;
+	 font-weight: 700;
+	 text-align: justify;
+	 font-family: 'Mukta Mahee', sans-serif;
+}
+
+h3{
+	font-family: 'Mukta Mahee', sans-serif;
+}
+hr{
+	border-bottom: 4px solid #3F8039;
+	width: 20%;
+    margin: 0 0 20px 0;
+	
+}
+
+h1{
+	color: #FFFFFF;
+	font-family:  'Montserrat', sans-serif;
+}
+h4{
+	font-family: 'Mukta Mahee', sans-serif;
+}
+
+h5{
+	font-family: 'Poppins', sans-serif;
+}
+p{
+	text-align: justify;
+	font-family: 'Poppins', sans-serif;
+}
+#informacion{
+	background-color: #dedede;
+	column-count:2;
+	column-gap: 3em;
+	column-rule: 1px solid #bbb;
+	column-width: 140px;
+	padding: 0px 0 30px 0;
+	}
+
+@media screen and (max-width:768px){
+	#informacion{
+		display: flex;
+		flex-direction:column;
+		justify-content: space-between;
+	}
+	.contacto{
+		padding: 0;
+	}
+}

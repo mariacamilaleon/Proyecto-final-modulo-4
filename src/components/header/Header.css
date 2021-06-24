@@ -1,0 +1,64 @@
+header{
+	max-width: 800px;
+	width: 100%;
+	background-image: url("header.png");
+	margin: auto;
+	background-repeat: no-repeat;
+    padding: 45px 30px;
+    display: flex;
+    flex-direction: row;
+    background-color: #DEDEDE;
+    min-height: 300px;
+	
+}
+
+.foto{
+	margin-right: 30px;
+    flex-basis: 40%;
+    text-align: center;
+
+}
+.foto img{
+	
+	width: 80%;
+	
+}
+.texto{
+   flex-basis: 60%;
+}
+.perfil{
+	color:#73816a;
+}
+.texto h3{
+	font-weight: 300;
+	color: #FFFFFF;
+}
+.texto h1{
+	font-weight: 500;
+	
+}
+.linea{
+	border-bottom: 4px solid #3F8039;
+	width: 70%;
+    margin: 0 0 20px 0;
+}
+
+@media screen and (max-width: 768px) {
+ 
+  header{
+  	flex-direction: column;
+  	 background-color: #73816a;
+  }
+
+  .texto{
+  	text-align: center;
+  }
+  .linea{
+  	width: 100%;
+  }
+
+  .info{
+  	text-align: start;
+  }
+
+  }
