@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/principal/static/css/main.1c8a4d75.chunk.css",
-    "main.js": "/principal/static/js/main.a8895719.chunk.js",
-    "main.js.map": "/principal/static/js/main.a8895719.chunk.js.map",
-    "runtime-main.js": "/principal/static/js/runtime-main.fb392c98.js",
-    "runtime-main.js.map": "/principal/static/js/runtime-main.fb392c98.js.map",
-    "static/js/2.79ae5be1.chunk.js": "/principal/static/js/2.79ae5be1.chunk.js",
-    "static/js/2.79ae5be1.chunk.js.map": "/principal/static/js/2.79ae5be1.chunk.js.map",
-    "static/js/3.f8ad02b5.chunk.js": "/principal/static/js/3.f8ad02b5.chunk.js",
-    "static/js/3.f8ad02b5.chunk.js.map": "/principal/static/js/3.f8ad02b5.chunk.js.map",
-    "index.html": "/principal/index.html",
-    "static/css/main.1c8a4d75.chunk.css.map": "/principal/static/css/main.1c8a4d75.chunk.css.map",
-    "static/js/2.79ae5be1.chunk.js.LICENSE.txt": "/principal/static/js/2.79ae5be1.chunk.js.LICENSE.txt",
-    "static/media/foto.31111682.png": "/principal/static/media/foto.31111682.png",
-    "static/media/funciones.0d0e8332.PNG": "/principal/static/media/funciones.0d0e8332.PNG",
-    "static/media/github.391810db.png": "/principal/static/media/github.391810db.png",
-    "static/media/Header.css": "/principal/static/media/header.f7f57e31.png",
-    "static/media/Footer.css": "/principal/static/media/header2.edd972f3.png",
-    "static/media/horoscopo.9d06d5e4.PNG": "/principal/static/media/horoscopo.9d06d5e4.PNG",
-    "static/media/jelly.9e6210a2.png": "/principal/static/media/jelly.9e6210a2.png",
-    "static/media/linkedin.a1932ea6.png": "/principal/static/media/linkedin.a1932ea6.png"
+    "main.css": "/Proyecto-final-modulo-4/static/css/main.08e3f6e9.chunk.css",
+    "main.js": "/Proyecto-final-modulo-4/static/js/main.145fa135.chunk.js",
+    "main.js.map": "/Proyecto-final-modulo-4/static/js/main.145fa135.chunk.js.map",
+    "runtime-main.js": "/Proyecto-final-modulo-4/static/js/runtime-main.8b99488e.js",
+    "runtime-main.js.map": "/Proyecto-final-modulo-4/static/js/runtime-main.8b99488e.js.map",
+    "static/js/2.79ae5be1.chunk.js": "/Proyecto-final-modulo-4/static/js/2.79ae5be1.chunk.js",
+    "static/js/2.79ae5be1.chunk.js.map": "/Proyecto-final-modulo-4/static/js/2.79ae5be1.chunk.js.map",
+    "static/js/3.f8ad02b5.chunk.js": "/Proyecto-final-modulo-4/static/js/3.f8ad02b5.chunk.js",
+    "static/js/3.f8ad02b5.chunk.js.map": "/Proyecto-final-modulo-4/static/js/3.f8ad02b5.chunk.js.map",
+    "index.html": "/Proyecto-final-modulo-4/index.html",
+    "static/css/main.08e3f6e9.chunk.css.map": "/Proyecto-final-modulo-4/static/css/main.08e3f6e9.chunk.css.map",
+    "static/js/2.79ae5be1.chunk.js.LICENSE.txt": "/Proyecto-final-modulo-4/static/js/2.79ae5be1.chunk.js.LICENSE.txt",
+    "static/media/foto.31111682.png": "/Proyecto-final-modulo-4/static/media/foto.31111682.png",
+    "static/media/funciones.0d0e8332.PNG": "/Proyecto-final-modulo-4/static/media/funciones.0d0e8332.PNG",
+    "static/media/github.391810db.png": "/Proyecto-final-modulo-4/static/media/github.391810db.png",
+    "static/media/Header.css": "/Proyecto-final-modulo-4/static/media/header.f7f57e31.png",
+    "static/media/Footer.css": "/Proyecto-final-modulo-4/static/media/header2.edd972f3.png",
+    "static/media/horoscopo.9d06d5e4.PNG": "/Proyecto-final-modulo-4/static/media/horoscopo.9d06d5e4.PNG",
+    "static/media/jelly.9e6210a2.png": "/Proyecto-final-modulo-4/static/media/jelly.9e6210a2.png",
+    "static/media/linkedin.a1932ea6.png": "/Proyecto-final-modulo-4/static/media/linkedin.a1932ea6.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb392c98.js",
+    "static/js/runtime-main.8b99488e.js",
     "static/js/2.79ae5be1.chunk.js",
-    "static/css/main.1c8a4d75.chunk.css",
-    "static/js/main.a8895719.chunk.js"
+    "static/css/main.08e3f6e9.chunk.css",
+    "static/js/main.145fa135.chunk.js"
   ]
 }
