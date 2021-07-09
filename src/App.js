@@ -34,7 +34,7 @@ function App() {
                <Route exact path="/"> 
                <Principal />  
                </Route>    
-               <Route path="#">
+               <Route path="*">
                <Error404 />
                </Route>
            </Switch>   
